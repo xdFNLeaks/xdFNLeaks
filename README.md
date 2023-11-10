@@ -1,7 +1,8 @@
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=xdFNLeaks&count_private=true&show_icons=true" alt="Stats"/>
 </p>
 
-[<img alt="xdFNLeaks - Twitter" width="110px" align="center" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twit]
+[<img alt="xdFNLeaks on X / Twitter" width="110px" align="center" src="https://static.vecteezy.com/system/resources/thumbnails/027/395/710/small/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" />][twit] 
+
+**Follow me on X!**
 
 [twit]: https://twitter.com/xdFNLeaks
