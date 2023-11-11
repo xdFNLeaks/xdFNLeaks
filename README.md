@@ -1,4 +1,4 @@
-## Hey!
+# Hey!
 
 **I'm xdFNLeaks, a Fortnite Dataminer over on Twitter (or X).**
 
