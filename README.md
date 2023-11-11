@@ -6,6 +6,12 @@ I'm **xdFNLeaks**, a **Fortnite Dataminer** over on **Twitter** (or **X**).
 
 ---
 
+#### Latest Project
+
+**[AES Key Grabber](https://github.com/xdFNLeaks/AES-Key-Grabber) - A program to easily grab/generate the main and dynamic AES keys for the current version of Fortnite!**
+
+---
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=xdFNLeaks&count_private=true&show_icons=true&theme=dark" alt="GitHub acc Stats"/>
 </p>
