@@ -1,6 +1,6 @@
 ## Hey!
 
-I'm **xdFNLeaks**, a **Fortnite Dataminer** over on **Twitter** (or **X**).
+**I'm xdFNLeaks, a Fortnite Dataminer over on Twitter (or X).**
 
 **Your not going to find much here, i rarely make public repositories. But if I create something I think will be of use to someone out there, you'll find it here.**
 
