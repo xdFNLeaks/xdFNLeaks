@@ -8,7 +8,7 @@
 
 #### Latest Projects
 
-**[Very hard game with no title](https://xdfnleaks.github.io/nonamehardgame) - Name speaks for itself, its a very hard game that has no title.**
+**[Very hard game that has no name](https://xdfnleaks.github.io/nonamehardgame) - Name speaks for itself, its a very hard game that has no name.**
 
 **[AES Key Grabber](https://github.com/xdFNLeaks/AES-Key-Grabber) - A program to easily grab/generate the main and dynamic AES keys for the current version of Fortnite!**
 
