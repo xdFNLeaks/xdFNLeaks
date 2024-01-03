@@ -25,6 +25,6 @@
 
 #### **Socials**
 
-[<img alt="xdFNLeaks on X / Twitter" width="80px" align="center" src="https://static.vecteezy.com/system/resources/thumbnails/027/395/710/small/twitter-brand-new-logo-3-d-with-new-x-shaped-graphic-of-the-world-s-most-popular-social-media-free-png.png" />][twit] 
-
-[twit]: https://twitter.com/xdFNLeaks
+<a href="https://www.x.com/xdFNLeaks" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/xdFNLeaks?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
