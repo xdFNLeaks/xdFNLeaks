@@ -1,4 +1,7 @@
-# Hey!
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="32">Hey!
+
+<a href="https://www.github.com/xdFNLeaks" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/xdFNLeaks?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 **I'm xdFNLeaks, a Fortnite Dataminer over on Twitter (or X).**
 
@@ -8,14 +11,14 @@
 
 #### Latest Projects
 
-**[Very hard game that has no name](https://xdfnleaks.github.io/nonamehardgame) - Name speaks for itself, its a very hard game that has no name.**
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20"> **[Very hard game that has no name](https://xdfnleaks.github.io/nonamehardgame) - Name speaks for itself, its a very hard game that has no name.**
 
-**[AES Key Grabber](https://github.com/xdFNLeaks/AES-Key-Grabber) - A program to easily grab/generate the main and dynamic AES keys for the current version of Fortnite!**
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20"> **[AES Key Grabber](https://github.com/xdFNLeaks/AES-Key-Grabber) - A program to easily grab/generate the main and dynamic AES keys for the current version of Fortnite!**
 
 ---
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=xdFNLeaks&count_private=true&show_icons=true&theme=dark" alt="GitHub acc Stats"/>
+   <a href="http://www.github.com/xdFNLeaks"><img src="https://github-readme-stats.vercel.app/api?username=xdFNLeaks&showicons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a> 
 </p>
 
 ---
@@ -26,5 +29,7 @@
 #### **Socials**
 
 <a href="https://www.x.com/xdFNLeaks" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/xdFNLeaks?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/xdFNLeaks?logo=x&style=for-the-badge&color=ef4444&labelColor=1c1917"
 /></a>
+
+<a href="https://discord.com/users/xdfnleaks" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
