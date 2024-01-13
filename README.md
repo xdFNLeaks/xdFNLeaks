@@ -3,7 +3,7 @@
 <a href="https://www.github.com/xdFNLeaks" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/xdFNLeaks?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
-**I'm xdFNLeaks, a Fortnite Dataminer over on Twitter (or X).**
+**I'm xdFNLeaks, a Fortnite Dataminer over on X (Twitter).**
 
 **Your not going to find much here, i rarely make public repositories. But if I create something I think will be of use to someone out there, you'll find it here.**
 
